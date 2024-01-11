@@ -609,4 +609,9 @@
     <string name="skip_startup_account_select_pref">Preskoči odabir računa pri pokretanju</string>
     <string name="manage_accounts">Upravljanje računima</string>
     <string name="edit_account">Uredi račun</string>
+    <string name="links_reloaded_toast">Linkovi ponovno učitani</string>
+    <string name="rotate_video">Rotiraj</string>
+    <string name="rotate_video_desc">Prikaži gumb za prebacivanje orijentacije zaslona</string>
+    <string name="auto_rotate_video_desc">Omogućuje automatsko mijenjanje orijentacije zaslona na temelju orijentacije videa</string>
+    <string name="auto_rotate_video">Automatsko rotiranje</string>
 </resources>

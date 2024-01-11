@@ -585,4 +585,6 @@
 \n
 \nWollen sie dieses Element trotzdem hinzufügen, das existierende ersetzen oder diese Aktion abbrechen?</string>
     <string name="links_reloaded_toast">Links wurden neu geladen</string>
+    <string name="rotate_video">Rotieren</string>
+    <string name="rotate_video_desc">Zeige einen Umschalter für Bildschirmorientierung an</string>
 </resources>
